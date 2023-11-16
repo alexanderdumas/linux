@@ -7,4 +7,5 @@
 * free :内存使用情况统计信息
 * iperf :网络性能测试工具
 
-![avatar](/home/wangqibing/linux-profile.jpg)
+
+![图片](/home/wangqibing/linux-profile.jpg)
