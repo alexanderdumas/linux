@@ -6,6 +6,3 @@
 * vmstat : 虚拟内存统计信息
 * free :内存使用情况统计信息
 * iperf :网络性能测试工具
-
-
-![图片](/home/wangqibing/linux-profile.jpg)
